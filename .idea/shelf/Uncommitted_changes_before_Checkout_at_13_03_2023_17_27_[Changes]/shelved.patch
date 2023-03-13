@@ -1,0 +1,335 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2efbc244-d1e8-43ac-8741-c6c86e38c4db\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"ExternalProjectsManager\">\r\n    <system id=\"GRADLE\">\r\n      <state>\r\n        <task path=\"$PROJECT_DIR$\">\r\n          <activation />\r\n        </task>\r\n        <projects_view>\r\n          <tree_state>\r\n            <expand>\r\n              <path>\r\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\r\n                <item name=\"CashBackHacker\" type=\"f1a62948:ProjectNode\" />\r\n              </path>\r\n              <path>\r\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\r\n                <item name=\"CashBackHacker\" type=\"f1a62948:ProjectNode\" />\r\n                <item name=\"Dependencies\" type=\"6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode\" />\r\n              </path>\r\n            </expand>\r\n            <select />\r\n          </tree_state>\r\n        </projects_view>\r\n      </state>\r\n    </system>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JUnit4 Test Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2MeedLecNrgsOnYfpahAfyIz2ob\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary\": \"JUnit4\",\r\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4\": \"\",\r\n    \"last_directory_selection\": \"C:/Users/Ирина/Desktop/Netology/CashBackHacker/src/test/java\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CreateTestDialog.Recents.Supers\">\r\n      <recent name=\"\" />\r\n    </key>\r\n    <key name=\"CreateTestDialog.RecentsKey\">\r\n      <recent name=\"ru.netology.service\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Gradle.CashbackHackServiceTest.calculateRequiredAmountIfThousandSpent\">\r\n    <configuration name=\"CashbackHackServiceTest\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\r\n      <ExternalSystemSettings>\r\n        <option name=\"executionName\" />\r\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\r\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\r\n        <option name=\"scriptParameters\" value=\"\" />\r\n        <option name=\"taskDescriptions\">\r\n          <list />\r\n        </option>\r\n        <option name=\"taskNames\">\r\n          <list>\r\n            <option value=\":test\" />\r\n            <option value=\"--tests\" />\r\n            <option value=\"&quot;ru.netology.service.CashbackHackServiceTest&quot;\" />\r\n          </list>\r\n        </option>\r\n        <option name=\"vmOptions\" />\r\n      </ExternalSystemSettings>\r\n      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>\r\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\r\n      <DebugAllEnabled>false</DebugAllEnabled>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"CashbackHackServiceTest.calculateRequiredAmountIfThousandSpent\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\r\n      <ExternalSystemSettings>\r\n        <option name=\"executionName\" />\r\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\r\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\r\n        <option name=\"scriptParameters\" value=\"\" />\r\n        <option name=\"taskDescriptions\">\r\n          <list />\r\n        </option>\r\n        <option name=\"taskNames\">\r\n          <list>\r\n            <option value=\":test\" />\r\n            <option value=\"--tests\" />\r\n            <option value=\"&quot;ru.netology.service.CashbackHackServiceTest.calculateRequiredAmountIfThousandSpent&quot;\" />\r\n          </list>\r\n        </option>\r\n        <option name=\"vmOptions\" />\r\n      </ExternalSystemSettings>\r\n      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>\r\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\r\n      <DebugAllEnabled>false</DebugAllEnabled>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Gradle.CashbackHackServiceTest.calculateRequiredAmountIfThousandSpent\" />\r\n        <item itemvalue=\"Gradle.CashbackHackServiceTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2efbc244-d1e8-43ac-8741-c6c86e38c4db\" name=\"Changes\" comment=\"\" />\r\n      <created>1678132562245</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1678132562245</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,7 +4,21 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="2efbc244-d1e8-43ac-8741-c6c86e38c4db" name="Changes" comment="" />
++    <list default="true" id="2efbc244-d1e8-43ac-8741-c6c86e38c4db" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.netology.service.CashbackHackServiceTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.netology.service.CashbackHackServiceTest.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/ru.netology.service.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/ru.netology.service.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ru.netology.service.CashbackHackServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ru.netology.service.CashbackHackServiceTest.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -47,6 +61,14 @@
+       </list>
+     </option>
+   </component>
++  <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+@@ -55,15 +77,15 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+-    "last_directory_selection": "C:/Users/Ирина/Desktop/Netology/CashBackHacker/src/test/java"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
++    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
++    &quot;last_directory_selection&quot;: &quot;C:/Users/Ирина/Desktop/Netology/CashBackHacker/src/test/java&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CreateTestDialog.Recents.Supers">
+       <recent name="" />
+@@ -72,7 +94,28 @@
+       <recent name="ru.netology.service" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.calculateRequiredAmountIfThousandSpent">
++  <component name="RunManager" selected="Gradle.CashBackHacker [test]">
++    <configuration name="CashBackHacker [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value="test" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <method v="2" />
++    </configuration>
+     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+@@ -121,6 +164,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Gradle.CashBackHacker [test]" />
+         <item itemvalue="Gradle.CashbackHackServiceTest.calculateRequiredAmountIfThousandSpent" />
+         <item itemvalue="Gradle.CashbackHackServiceTest" />
+       </list>
+Index: build/test-results/test/TEST-ru.netology.service.CashbackHackServiceTest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<testsuite name=\"ru.netology.service.CashbackHackServiceTest\" tests=\"1\" skipped=\"0\" failures=\"1\" errors=\"0\" timestamp=\"2023-03-13T14:07:23\" hostname=\"DESKTOP-8660IKO\" time=\"0.009\">\r\n  <properties/>\r\n  <testcase name=\"calculateRequiredAmountIfThousandSpent\" classname=\"ru.netology.service.CashbackHackServiceTest\" time=\"0.009\">\r\n    <failure message=\"java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;1000&gt;\" type=\"java.lang.AssertionError\">java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;1000&gt;\r\n\tat org.junit.Assert.fail(Assert.java:89)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:835)\r\n\tat org.junit.Assert.assertEquals(Assert.java:647)\r\n\tat org.junit.Assert.assertEquals(Assert.java:633)\r\n\tat ru.netology.service.CashbackHackServiceTest.calculateRequiredAmountIfThousandSpent(CashbackHackServiceTest.java:42)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)\r\n\tat org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)\r\n\tat org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)\r\n\tat org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)\r\n\tat org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)\r\n\tat org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)\r\n\tat org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)\r\n\tat org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)\r\n\tat org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:413)\r\n\tat org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:110)\r\n\tat org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)\r\n\tat org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)\r\n\tat org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:62)\r\n\tat org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)\r\n\tat org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)\r\n\tat org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)\r\n\tat org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)\r\n\tat com.sun.proxy.$Proxy2.processTestClass(Unknown Source)\r\n\tat org.gradle.api.internal.tasks.testing.worker.TestWorker$2.run(TestWorker.java:176)\r\n\tat org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)\r\n\tat org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)\r\n\tat org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)\r\n\tat org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)\r\n\tat org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:133)\r\n\tat org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:71)\r\n\tat worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)\r\n\tat worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)\r\n</failure>\r\n  </testcase>\r\n  <system-out><![CDATA[]]></system-out>\r\n  <system-err><![CDATA[]]></system-err>\r\n</testsuite>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/build/test-results/test/TEST-ru.netology.service.CashbackHackServiceTest.xml b/build/test-results/test/TEST-ru.netology.service.CashbackHackServiceTest.xml
+--- a/build/test-results/test/TEST-ru.netology.service.CashbackHackServiceTest.xml	
++++ b/build/test-results/test/TEST-ru.netology.service.CashbackHackServiceTest.xml	
+@@ -1,7 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+-<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-03-13T14:07:23" hostname="DESKTOP-8660IKO" time="0.009">
++<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="3" skipped="0" failures="1" errors="0" timestamp="2023-03-13T14:27:22" hostname="DESKTOP-8660IKO" time="0.008">
+   <properties/>
+-  <testcase name="calculateRequiredAmountIfThousandSpent" classname="ru.netology.service.CashbackHackServiceTest" time="0.009">
++  <testcase name="calculateRequiredAmountIfNineHundredAndNinetyNineSpent" classname="ru.netology.service.CashbackHackServiceTest" time="0.004"/>
++  <testcase name="calculateRequiredAmountIfFiveHundredSpent" classname="ru.netology.service.CashbackHackServiceTest" time="0.001"/>
++  <testcase name="calculateRequiredAmountIfThousandSpent" classname="ru.netology.service.CashbackHackServiceTest" time="0.003">
+     <failure message="java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;1000&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;1000&gt;
+ 	at org.junit.Assert.fail(Assert.java:89)
+ 	at org.junit.Assert.failNotEquals(Assert.java:835)
+Index: build/reports/tests/test/classes/ru.netology.service.CashbackHackServiceTest.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\r\n<meta http-equiv=\"x-ua-compatible\" content=\"IE=edge\"/>\r\n<title>Test results - Class ru.netology.service.CashbackHackServiceTest</title>\r\n<link href=\"../css/base-style.css\" rel=\"stylesheet\" type=\"text/css\"/>\r\n<link href=\"../css/style.css\" rel=\"stylesheet\" type=\"text/css\"/>\r\n<script src=\"../js/report.js\" type=\"text/javascript\"></script>\r\n</head>\r\n<body>\r\n<div id=\"content\">\r\n<h1>Class ru.netology.service.CashbackHackServiceTest</h1>\r\n<div class=\"breadcrumbs\">\r\n<a href=\"../index.html\">all</a> &gt; \r\n<a href=\"../packages/ru.netology.service.html\">ru.netology.service</a> &gt; CashbackHackServiceTest</div>\r\n<div id=\"summary\">\r\n<table>\r\n<tr>\r\n<td>\r\n<div class=\"summaryGroup\">\r\n<table>\r\n<tr>\r\n<td>\r\n<div class=\"infoBox\" id=\"tests\">\r\n<div class=\"counter\">1</div>\r\n<p>tests</p>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox\" id=\"failures\">\r\n<div class=\"counter\">1</div>\r\n<p>failures</p>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox\" id=\"ignored\">\r\n<div class=\"counter\">0</div>\r\n<p>ignored</p>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox\" id=\"duration\">\r\n<div class=\"counter\">0.009s</div>\r\n<p>duration</p>\r\n</div>\r\n</td>\r\n</tr>\r\n</table>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox failures\" id=\"successRate\">\r\n<div class=\"percent\">0%</div>\r\n<p>successful</p>\r\n</div>\r\n</td>\r\n</tr>\r\n</table>\r\n</div>\r\n<div id=\"tabs\">\r\n<ul class=\"tabLinks\">\r\n<li>\r\n<a href=\"#tab0\">Failed tests</a>\r\n</li>\r\n<li>\r\n<a href=\"#tab1\">Tests</a>\r\n</li>\r\n</ul>\r\n<div id=\"tab0\" class=\"tab\">\r\n<h2>Failed tests</h2>\r\n<div class=\"test\">\r\n<a name=\"calculateRequiredAmountIfThousandSpent\"></a>\r\n<h3 class=\"failures\">calculateRequiredAmountIfThousandSpent</h3>\r\n<span class=\"code\">\r\n<pre>java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;1000&gt;\r\n\tat org.junit.Assert.fail(Assert.java:89)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:835)\r\n\tat org.junit.Assert.assertEquals(Assert.java:647)\r\n\tat org.junit.Assert.assertEquals(Assert.java:633)\r\n\tat ru.netology.service.CashbackHackServiceTest.calculateRequiredAmountIfThousandSpent(CashbackHackServiceTest.java:42)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)\r\n\tat org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)\r\n\tat org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)\r\n\tat org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)\r\n\tat org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)\r\n\tat org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)\r\n\tat org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)\r\n\tat org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)\r\n\tat org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:413)\r\n\tat org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:110)\r\n\tat org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)\r\n\tat org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)\r\n\tat org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:62)\r\n\tat org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)\r\n\tat org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)\r\n\tat org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)\r\n\tat org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)\r\n\tat com.sun.proxy.$Proxy2.processTestClass(Unknown Source)\r\n\tat org.gradle.api.internal.tasks.testing.worker.TestWorker$2.run(TestWorker.java:176)\r\n\tat org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)\r\n\tat org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)\r\n\tat org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)\r\n\tat org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)\r\n\tat org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:133)\r\n\tat org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:71)\r\n\tat worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)\r\n\tat worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)\r\n</pre>\r\n</span>\r\n</div>\r\n</div>\r\n<div id=\"tab1\" class=\"tab\">\r\n<h2>Tests</h2>\r\n<table>\r\n<thead>\r\n<tr>\r\n<th>Test</th>\r\n<th>Duration</th>\r\n<th>Result</th>\r\n</tr>\r\n</thead>\r\n<tr>\r\n<td class=\"failures\">calculateRequiredAmountIfThousandSpent</td>\r\n<td class=\"failures\">0.009s</td>\r\n<td class=\"failures\">failed</td>\r\n</tr>\r\n</table>\r\n</div>\r\n</div>\r\n<div id=\"footer\">\r\n<p>\r\n<div>\r\n<label class=\"hidden\" id=\"label-for-line-wrapping-toggle\" for=\"line-wrapping-toggle\">Wrap lines\r\n<input id=\"line-wrapping-toggle\" type=\"checkbox\" autocomplete=\"off\"/>\r\n</label>\r\n</div>Generated by \r\n<a href=\"http://www.gradle.org\">Gradle 7.5.1</a> at 13 мар. 2023 г., 17:07:23</p>\r\n</div>\r\n</div>\r\n</body>\r\n</html>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/build/reports/tests/test/classes/ru.netology.service.CashbackHackServiceTest.html b/build/reports/tests/test/classes/ru.netology.service.CashbackHackServiceTest.html
+--- a/build/reports/tests/test/classes/ru.netology.service.CashbackHackServiceTest.html	
++++ b/build/reports/tests/test/classes/ru.netology.service.CashbackHackServiceTest.html	
+@@ -23,7 +23,7 @@
+ <tr>
+ <td>
+ <div class="infoBox" id="tests">
+-<div class="counter">1</div>
++<div class="counter">3</div>
+ <p>tests</p>
+ </div>
+ </td>
+@@ -41,7 +41,7 @@
+ </td>
+ <td>
+ <div class="infoBox" id="duration">
+-<div class="counter">0.009s</div>
++<div class="counter">0.008s</div>
+ <p>duration</p>
+ </div>
+ </td>
+@@ -51,7 +51,7 @@
+ </td>
+ <td>
+ <div class="infoBox failures" id="successRate">
+-<div class="percent">0%</div>
++<div class="percent">66%</div>
+ <p>successful</p>
+ </div>
+ </td>
+@@ -137,8 +137,18 @@
+ </tr>
+ </thead>
+ <tr>
++<td class="success">calculateRequiredAmountIfFiveHundredSpent</td>
++<td class="success">0.001s</td>
++<td class="success">passed</td>
++</tr>
++<tr>
++<td class="success">calculateRequiredAmountIfNineHundredAndNinetyNineSpent</td>
++<td class="success">0.004s</td>
++<td class="success">passed</td>
++</tr>
++<tr>
+ <td class="failures">calculateRequiredAmountIfThousandSpent</td>
+-<td class="failures">0.009s</td>
++<td class="failures">0.003s</td>
+ <td class="failures">failed</td>
+ </tr>
+ </table>
+@@ -151,7 +161,7 @@
+ <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+ </label>
+ </div>Generated by 
+-<a href="http://www.gradle.org">Gradle 7.5.1</a> at 13 мар. 2023 г., 17:07:23</p>
++<a href="http://www.gradle.org">Gradle 7.5.1</a> at 13 мар. 2023 г., 17:27:22</p>
+ </div>
+ </div>
+ </body>
+Index: build/reports/tests/test/packages/ru.netology.service.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\r\n<meta http-equiv=\"x-ua-compatible\" content=\"IE=edge\"/>\r\n<title>Test results - Package ru.netology.service</title>\r\n<link href=\"../css/base-style.css\" rel=\"stylesheet\" type=\"text/css\"/>\r\n<link href=\"../css/style.css\" rel=\"stylesheet\" type=\"text/css\"/>\r\n<script src=\"../js/report.js\" type=\"text/javascript\"></script>\r\n</head>\r\n<body>\r\n<div id=\"content\">\r\n<h1>Package ru.netology.service</h1>\r\n<div class=\"breadcrumbs\">\r\n<a href=\"../index.html\">all</a> &gt; ru.netology.service</div>\r\n<div id=\"summary\">\r\n<table>\r\n<tr>\r\n<td>\r\n<div class=\"summaryGroup\">\r\n<table>\r\n<tr>\r\n<td>\r\n<div class=\"infoBox\" id=\"tests\">\r\n<div class=\"counter\">1</div>\r\n<p>tests</p>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox\" id=\"failures\">\r\n<div class=\"counter\">1</div>\r\n<p>failures</p>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox\" id=\"ignored\">\r\n<div class=\"counter\">0</div>\r\n<p>ignored</p>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox\" id=\"duration\">\r\n<div class=\"counter\">0.009s</div>\r\n<p>duration</p>\r\n</div>\r\n</td>\r\n</tr>\r\n</table>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox failures\" id=\"successRate\">\r\n<div class=\"percent\">0%</div>\r\n<p>successful</p>\r\n</div>\r\n</td>\r\n</tr>\r\n</table>\r\n</div>\r\n<div id=\"tabs\">\r\n<ul class=\"tabLinks\">\r\n<li>\r\n<a href=\"#tab0\">Failed tests</a>\r\n</li>\r\n<li>\r\n<a href=\"#tab1\">Classes</a>\r\n</li>\r\n</ul>\r\n<div id=\"tab0\" class=\"tab\">\r\n<h2>Failed tests</h2>\r\n<ul class=\"linkList\">\r\n<li>\r\n<a href=\"../classes/ru.netology.service.CashbackHackServiceTest.html\">CashbackHackServiceTest</a>.\r\n<a href=\"../classes/ru.netology.service.CashbackHackServiceTest.html#calculateRequiredAmountIfThousandSpent\">calculateRequiredAmountIfThousandSpent</a>\r\n</li>\r\n</ul>\r\n</div>\r\n<div id=\"tab1\" class=\"tab\">\r\n<h2>Classes</h2>\r\n<table>\r\n<thread>\r\n<tr>\r\n<th>Class</th>\r\n<th>Tests</th>\r\n<th>Failures</th>\r\n<th>Ignored</th>\r\n<th>Duration</th>\r\n<th>Success rate</th>\r\n</tr>\r\n</thread>\r\n<tr>\r\n<td class=\"failures\">\r\n<a href=\"../classes/ru.netology.service.CashbackHackServiceTest.html\">CashbackHackServiceTest</a>\r\n</td>\r\n<td>1</td>\r\n<td>1</td>\r\n<td>0</td>\r\n<td>0.009s</td>\r\n<td class=\"failures\">0%</td>\r\n</tr>\r\n</table>\r\n</div>\r\n</div>\r\n<div id=\"footer\">\r\n<p>\r\n<div>\r\n<label class=\"hidden\" id=\"label-for-line-wrapping-toggle\" for=\"line-wrapping-toggle\">Wrap lines\r\n<input id=\"line-wrapping-toggle\" type=\"checkbox\" autocomplete=\"off\"/>\r\n</label>\r\n</div>Generated by \r\n<a href=\"http://www.gradle.org\">Gradle 7.5.1</a> at 13 мар. 2023 г., 17:07:23</p>\r\n</div>\r\n</div>\r\n</body>\r\n</html>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/build/reports/tests/test/packages/ru.netology.service.html b/build/reports/tests/test/packages/ru.netology.service.html
+--- a/build/reports/tests/test/packages/ru.netology.service.html	
++++ b/build/reports/tests/test/packages/ru.netology.service.html	
+@@ -22,7 +22,7 @@
+ <tr>
+ <td>
+ <div class="infoBox" id="tests">
+-<div class="counter">1</div>
++<div class="counter">3</div>
+ <p>tests</p>
+ </div>
+ </td>
+@@ -40,7 +40,7 @@
+ </td>
+ <td>
+ <div class="infoBox" id="duration">
+-<div class="counter">0.009s</div>
++<div class="counter">0.008s</div>
+ <p>duration</p>
+ </div>
+ </td>
+@@ -50,7 +50,7 @@
+ </td>
+ <td>
+ <div class="infoBox failures" id="successRate">
+-<div class="percent">0%</div>
++<div class="percent">66%</div>
+ <p>successful</p>
+ </div>
+ </td>
+@@ -92,11 +92,11 @@
+ <td class="failures">
+ <a href="../classes/ru.netology.service.CashbackHackServiceTest.html">CashbackHackServiceTest</a>
+ </td>
+-<td>1</td>
++<td>3</td>
+ <td>1</td>
+ <td>0</td>
+-<td>0.009s</td>
+-<td class="failures">0%</td>
++<td>0.008s</td>
++<td class="failures">66%</td>
+ </tr>
+ </table>
+ </div>
+@@ -108,7 +108,7 @@
+ <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+ </label>
+ </div>Generated by 
+-<a href="http://www.gradle.org">Gradle 7.5.1</a> at 13 мар. 2023 г., 17:07:23</p>
++<a href="http://www.gradle.org">Gradle 7.5.1</a> at 13 мар. 2023 г., 17:27:22</p>
+ </div>
+ </div>
+ </body>
+Index: build/reports/tests/test/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\r\n<meta http-equiv=\"x-ua-compatible\" content=\"IE=edge\"/>\r\n<title>Test results - Test Summary</title>\r\n<link href=\"css/base-style.css\" rel=\"stylesheet\" type=\"text/css\"/>\r\n<link href=\"css/style.css\" rel=\"stylesheet\" type=\"text/css\"/>\r\n<script src=\"js/report.js\" type=\"text/javascript\"></script>\r\n</head>\r\n<body>\r\n<div id=\"content\">\r\n<h1>Test Summary</h1>\r\n<div id=\"summary\">\r\n<table>\r\n<tr>\r\n<td>\r\n<div class=\"summaryGroup\">\r\n<table>\r\n<tr>\r\n<td>\r\n<div class=\"infoBox\" id=\"tests\">\r\n<div class=\"counter\">1</div>\r\n<p>tests</p>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox\" id=\"failures\">\r\n<div class=\"counter\">1</div>\r\n<p>failures</p>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox\" id=\"ignored\">\r\n<div class=\"counter\">0</div>\r\n<p>ignored</p>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox\" id=\"duration\">\r\n<div class=\"counter\">0.009s</div>\r\n<p>duration</p>\r\n</div>\r\n</td>\r\n</tr>\r\n</table>\r\n</div>\r\n</td>\r\n<td>\r\n<div class=\"infoBox failures\" id=\"successRate\">\r\n<div class=\"percent\">0%</div>\r\n<p>successful</p>\r\n</div>\r\n</td>\r\n</tr>\r\n</table>\r\n</div>\r\n<div id=\"tabs\">\r\n<ul class=\"tabLinks\">\r\n<li>\r\n<a href=\"#tab0\">Failed tests</a>\r\n</li>\r\n<li>\r\n<a href=\"#tab1\">Packages</a>\r\n</li>\r\n<li>\r\n<a href=\"#tab2\">Classes</a>\r\n</li>\r\n</ul>\r\n<div id=\"tab0\" class=\"tab\">\r\n<h2>Failed tests</h2>\r\n<ul class=\"linkList\">\r\n<li>\r\n<a href=\"classes/ru.netology.service.CashbackHackServiceTest.html\">CashbackHackServiceTest</a>.\r\n<a href=\"classes/ru.netology.service.CashbackHackServiceTest.html#calculateRequiredAmountIfThousandSpent\">calculateRequiredAmountIfThousandSpent</a>\r\n</li>\r\n</ul>\r\n</div>\r\n<div id=\"tab1\" class=\"tab\">\r\n<h2>Packages</h2>\r\n<table>\r\n<thead>\r\n<tr>\r\n<th>Package</th>\r\n<th>Tests</th>\r\n<th>Failures</th>\r\n<th>Ignored</th>\r\n<th>Duration</th>\r\n<th>Success rate</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td class=\"failures\">\r\n<a href=\"packages/ru.netology.service.html\">ru.netology.service</a>\r\n</td>\r\n<td>1</td>\r\n<td>1</td>\r\n<td>0</td>\r\n<td>0.009s</td>\r\n<td class=\"failures\">0%</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n<div id=\"tab2\" class=\"tab\">\r\n<h2>Classes</h2>\r\n<table>\r\n<thead>\r\n<tr>\r\n<th>Class</th>\r\n<th>Tests</th>\r\n<th>Failures</th>\r\n<th>Ignored</th>\r\n<th>Duration</th>\r\n<th>Success rate</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td class=\"failures\">\r\n<a href=\"classes/ru.netology.service.CashbackHackServiceTest.html\">ru.netology.service.CashbackHackServiceTest</a>\r\n</td>\r\n<td>1</td>\r\n<td>1</td>\r\n<td>0</td>\r\n<td>0.009s</td>\r\n<td class=\"failures\">0%</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n</div>\r\n<div id=\"footer\">\r\n<p>\r\n<div>\r\n<label class=\"hidden\" id=\"label-for-line-wrapping-toggle\" for=\"line-wrapping-toggle\">Wrap lines\r\n<input id=\"line-wrapping-toggle\" type=\"checkbox\" autocomplete=\"off\"/>\r\n</label>\r\n</div>Generated by \r\n<a href=\"http://www.gradle.org\">Gradle 7.5.1</a> at 13 мар. 2023 г., 17:07:23</p>\r\n</div>\r\n</div>\r\n</body>\r\n</html>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/build/reports/tests/test/index.html b/build/reports/tests/test/index.html
+--- a/build/reports/tests/test/index.html	
++++ b/build/reports/tests/test/index.html	
+@@ -20,7 +20,7 @@
+ <tr>
+ <td>
+ <div class="infoBox" id="tests">
+-<div class="counter">1</div>
++<div class="counter">3</div>
+ <p>tests</p>
+ </div>
+ </td>
+@@ -38,7 +38,7 @@
+ </td>
+ <td>
+ <div class="infoBox" id="duration">
+-<div class="counter">0.009s</div>
++<div class="counter">0.008s</div>
+ <p>duration</p>
+ </div>
+ </td>
+@@ -48,7 +48,7 @@
+ </td>
+ <td>
+ <div class="infoBox failures" id="successRate">
+-<div class="percent">0%</div>
++<div class="percent">66%</div>
+ <p>successful</p>
+ </div>
+ </td>
+@@ -94,11 +94,11 @@
+ <td class="failures">
+ <a href="packages/ru.netology.service.html">ru.netology.service</a>
+ </td>
+-<td>1</td>
++<td>3</td>
+ <td>1</td>
+ <td>0</td>
+-<td>0.009s</td>
+-<td class="failures">0%</td>
++<td>0.008s</td>
++<td class="failures">66%</td>
+ </tr>
+ </tbody>
+ </table>
+@@ -121,11 +121,11 @@
+ <td class="failures">
+ <a href="classes/ru.netology.service.CashbackHackServiceTest.html">ru.netology.service.CashbackHackServiceTest</a>
+ </td>
+-<td>1</td>
++<td>3</td>
+ <td>1</td>
+ <td>0</td>
+-<td>0.009s</td>
+-<td class="failures">0%</td>
++<td>0.008s</td>
++<td class="failures">66%</td>
+ </tr>
+ </tbody>
+ </table>
+@@ -138,7 +138,7 @@
+ <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+ </label>
+ </div>Generated by 
+-<a href="http://www.gradle.org">Gradle 7.5.1</a> at 13 мар. 2023 г., 17:07:23</p>
++<a href="http://www.gradle.org">Gradle 7.5.1</a> at 13 мар. 2023 г., 17:27:22</p>
+ </div>
+ </div>
+ </body>
